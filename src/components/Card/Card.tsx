@@ -46,17 +46,14 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     alignItems: 'center',
     justifyContent: 'center',
-    borderRadius: 16,
-    // marginTop: 200,
+    // borderRadius: 16,
+
     marginBottom: 40,
   },
   wrapper: {
     padding: 20,
   },
   header: {
-    fontSize: 24,
-    color: 'red',
-    fontWeight: 'bold',
     marginBottom: 10,
   },
   mapContainer: {
